@@ -1,8 +1,8 @@
 ﻿using Xunit;
 using System.Linq;
 using SamuraiTracker.Domain;
-using EFCoreDbContext;
 using Microsoft.EntityFrameworkCore;
+using EFCoreDbContext;
 
 namespace TestProject
 {
